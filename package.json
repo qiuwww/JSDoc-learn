@@ -6,9 +6,8 @@
   "scripts": {
     "jsdoc_html" : "jsdoc ./demo/*.js -R README.md -d ./outhtml/",
     "jsdoc_md" : "jsdoc2md ./demo/*.js > ./outmd/comment.md",
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["jsdoc", "jsdoc2md"],
   "author": "",
   "license": "ISC",
   "devDependencies": {
