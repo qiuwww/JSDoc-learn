@@ -81,4 +81,4 @@ JSDoc支持两种不同类型的标签：
 - link   链接
 
 ## 线上预览地址
-[本示例demo的预览](http://htmlpreview.github.io/?https://github.com/moonbreezee/JSDoc-learn/blob/master/outhtml/index.html)
+[本示例demo的预览](http://htmlpreview.github.io/?https://github.com/qiuwww/JSDoc-learn/blob/master/outhtml/index.html)
